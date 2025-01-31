@@ -1,8 +1,10 @@
 # kaggle-stylometry
 
-A CLI version of Kaggle competition code. 
+A CLI version of Kaggle competition code.
 
-Original notebook:
+Project got an Honorable Mention on Kaggle competition! https://www.kaggle.com/competitions/gemini-long-context/discussion/552419
+
+Original notebook: https://www.kaggle.com/code/blackbigswan/github-profile-chat-analysis-and-insights
 
 # Install & Run
 
